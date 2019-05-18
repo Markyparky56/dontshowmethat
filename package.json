@@ -1,0 +1,22 @@
+{
+  "name": "dontshowmethat",
+  "version": "0.0.0",
+  "description": "",
+  "main": "dontshowmethat.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "source-map-loader": "^0.2.4",
+    "ts-loader": "^6.0.0",
+    "typescript": "^3.4.5",
+    "webpack": "^4.31.0",
+    "webpack-cli": "^3.3.2"
+  },
+  "dependencies": {
+    "@tensorflow/tfjs": "^1.1.2",
+    "nsfwjs": "^2.0.0"
+  }
+}
